@@ -1,1 +1,1 @@
-# AMC_week2_Acticity
+# AMC_week2_Activity
